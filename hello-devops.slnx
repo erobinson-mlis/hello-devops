@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FactorialLibrary.Tests/FactorialLibrary.Tests.csproj" />
+  <Project Path="FactorialLibrary/FactorialLibrary.csproj" />
+</Solution>
