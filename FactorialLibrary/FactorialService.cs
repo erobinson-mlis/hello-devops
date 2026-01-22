@@ -1,6 +1,6 @@
 ﻿namespace FactorialLibrary;
 
-public class Class1
+public class FactorialService
 {
     public static int Factorial(int n) {
         if(n==0 || n==1) { //   0! = 1,  1! = 1
